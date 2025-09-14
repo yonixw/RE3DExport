@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33801.447
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RE3DExport", "RE3DExport.csproj", "{A13BBCAC-E755-460F-8634-57C1C66E0D5F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A13BBCAC-E755-460F-8634-57C1C66E0D5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A13BBCAC-E755-460F-8634-57C1C66E0D5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A13BBCAC-E755-460F-8634-57C1C66E0D5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A13BBCAC-E755-460F-8634-57C1C66E0D5F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {41FBCD83-83E0-42B7-9FFB-B8BFC996C8C1}
+	EndGlobalSection
+EndGlobal
