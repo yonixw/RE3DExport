@@ -3,3 +3,4 @@
 * Not working perefectly, missing some transforms so result looks bad.. but at least the raw data is read correctly.
 * This was a one night coding experience, so you would probably do better :)
   
+![](./3d_convert.png)
