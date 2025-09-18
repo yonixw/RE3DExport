@@ -1,5 +1,5 @@
-# Rising Eagle PC (2008) Extra Utils
-Download: [Release Page](https://github.com/yonixw/REExtraUtils/releases)
+# Rising Eagle PC (2008) 3D to OBJ convertor
+Download: [Release Page](https://github.com/yonixw/RE3DExport/releases)
 
 # Links:
 * See in release page (links.txt).
